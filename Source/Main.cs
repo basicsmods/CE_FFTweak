@@ -25,7 +25,7 @@ namespace CE_FFTweak
     {
         static Main()
         {
-            var harmony = new Harmony("basics.ce_fftweak");
+            var harmony = new Harmony("basics.cefftweak");
             harmony.PatchAll();
         }
     }

@@ -8,3 +8,4 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CE_FFTweak\Source\ob
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CE_FFTweak\Source\obj\Debug\CE_FFTweak.csproj.CopyComplete
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CE_FFTweak\Source\obj\Debug\CorpsesDeteriorateFaster.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CE_FFTweak\Source\obj\Debug\CorpsesDeteriorateFaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CE_FFTweak\Source\obj\Debug\CE_FFTweak.sourcelink.json

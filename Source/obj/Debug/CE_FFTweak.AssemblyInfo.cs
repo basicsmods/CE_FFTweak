@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("basics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.2.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.2.0.0+c122e28c0304b2c6572eea2041c8a959741bb961")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorpsesDeteriorateFaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorpsesDeteriorateFaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.2.0.0")]
