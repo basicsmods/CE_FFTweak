@@ -18,6 +18,9 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/2890901044</steamWorkshopUrl>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<li>CETeam.CombatExtended</li>
+	</loadAfter>
 	<packageId>basics.cefftweak</packageId>
 	<description>Combat Extended changes the way friendly-fire works. Part of the way they handle it is that if a friendly pawn is in the way of your target, you don't even try to shoot. However, they fail to take leaning pawns into account and this can result in frustrating brain injuries. 
 	Ideally, the shooter would notice the leaning pawn in their way and not even try to take the shot. I'm not quite sure how you'd accomplish that in the code so as an easier "fix", I made it so that the pawn is still allowed to shoot, but friendly-fire is guaranteed to not occur.
