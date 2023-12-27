@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\1.4\Assemblies\CorpsesDeteriorateFaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\1.4\Assemblies\CorpsesDeteriorateFaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CorpsesDeteriorateFaster\Source\obj\Debug\CorpsesDeteriorateFaster.csproj.CopyComplete
