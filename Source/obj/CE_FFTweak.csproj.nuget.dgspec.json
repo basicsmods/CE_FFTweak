@@ -8,7 +8,7 @@
       "version": "3.2.0",
       "restore": {
         "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CE_FFTweak\\Source\\CE_FFTweak.csproj",
-        "projectName": "CorpsesDeteriorateFaster",
+        "projectName": "CE_FFTweak",
         "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CE_FFTweak\\Source\\CE_FFTweak.csproj",
         "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
         "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CE_FFTweak\\Source\\obj\\",
