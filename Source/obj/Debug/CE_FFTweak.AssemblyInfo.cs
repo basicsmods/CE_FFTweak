@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("basics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.2.0.0+882976a4c752b26d73a6c9c5ae23b0c91b2ee5d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.2.0.0+1e451ff7b5a55b0c75b73d7d5ad8151db2a0481c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorpsesDeteriorateFaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CE_FFTweak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.2.0.0")]
